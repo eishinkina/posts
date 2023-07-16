@@ -1,0 +1,21 @@
+
+.header {
+    display: flex;
+    justify-content: end;
+    padding: 20px 0;
+}
+
+.comment {
+    background: white;
+    margin-top: 10px;
+
+    h3 {
+        margin: 0;
+        border-bottom: 1px solid #eee;
+        padding: 24px;
+    }
+
+    p {
+        margin: 0;
+    }
+}
